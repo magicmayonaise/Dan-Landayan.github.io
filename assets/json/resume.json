@@ -1,116 +1,79 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dan Landayan",
+    "label": "Neuroscientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "dan.landayan@gmail.com",
+    "phone": "(510) 557-5628",
+    "url": "https://danlandayan.com",
+    "summary": "Passion for understanding neural circuits of motivated behaviors in flies and mice. Diversity in Neuroscience. He/him/his",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "4820 Barbara Ct",
+      "postalCode": "CA 94587",
+      "city": "Union City",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "DanLandayan",
+        "url": "https://x.com/DanLandayan"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Stanford University",
+      "position": "Postdoctoral Scientist",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "summary": "Neural circuits of female reproductive behavior.",
       "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "SACNAS",
+      "location": "Bay Area, California",
+      "position": "Postdoc Advisor",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2011-09-01",
+      "endDate": "Present",
+      "summary": "I've helped establish SACNAS at the University of Missouri, Columbia. At University of California, Merced I served as a Graduate Advisor for undergraduate students. At Stanford University, I continue to serve as a Postdoctoral Advisor.",
+      "highlights": ["Co-founder of SACNAS at University of Missouri, Columbia in 2011"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Merced",
+      "location": "Merced, California",
+      "url": "https://escholarship.org/content/qt20w8s75n/qt20w8s75n.pdf",
+      "area": "Quantitative Systems Biology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2013-08",
+      "endDate": "2019-08",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Human Physiology"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "HHMI Hanna Grey Finalist",
+      "date": "2020",
+      "awarder": "Howard Hughes Medical Institute",
+      "url": "hhmi.org",
+      "summary": "It was a great honor to be amongst the finalists during the Covid Era.'"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
+      "name": "Python I: Fundamentals - Entry-Level Python Programmer",
+      "date": "2024-06",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+      "url": "https://uit.stanford.edu/service/techtraining/class/python-i-fundamentals-entry-level-python-programmer-certification",
+     
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
